@@ -628,7 +628,7 @@
             container.className = 'container';
             
             const logo = document.createElement('div');
-            logo.innerHTML = '<span style="color:#0ea5e9; font-weight:700; font-size:1.8rem;">JD</span>';
+            logo.innerHTML = '<span style="color:#0ea5e9; font-weight:700; font-size:1.8rem;">PS</span>';
             logo.style.marginBottom = '1rem';
             container.appendChild(logo);
             
